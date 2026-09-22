@@ -15,9 +15,9 @@ Para as barbearias, o sistema funciona como uma vitrine digital, permitindo apre
 ## 👥 Integrantes da Equipe
 
 * Murilo de Oliveira Sartori
-* Gustavo Octaviano de Souza
-* Washington Carvalho
-* Eduardo
+* Gustavo Yuri Octaviano 
+* Washington  Cipriano de Carvalho
+* Eduardo Morgado da Silva
 ---
 
 ## 🏫 Instituição
